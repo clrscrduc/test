@@ -1,0 +1,44 @@
+1. Write a Python function that takes a list and returns a new list with unique elements of the first list. 
+Sample List : [1,2,3,3,3,3,4,5]
+Unique List : [1, 2, 3, 4, 5]
+
+2. Write a Python program to get a list, sorted in increasing order by the last element in each tuple from a given list of non-empty tuples. 
+Sample List : [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
+Expected Result : [(2, 1), (1, 2), (2, 3), (4, 4), (2, 5)]
+
+
+
+3. Write a Python program to construct the following pattern, using a nested for loop.
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+*
+
+
+
+
+
+4. Write a Python program that accepts a hyphen-separated sequence of words as input and prints the words in a hyphen-separated sequence after sorting them alphabetically. 
+Sample Items : green-red-yellow-black-white
+Expected Result : black-green-red-white-yellow
+
+
+
+5. Write a Python program to combine two dictionary adding values for common keys. 
+d1 = {'a': 100, 'b': 200, 'c':300}
+d2 = {'a': 300, 'b': 200, 'd':400}
+Sample output: Counter({'a': 400, 'b': 400, 'd': 400, 'c': 300})
+
+
+
+6. Write a Python program to create a dictionary from a string. 
+Note: Track the count of the letters from the string.
+Sample string : 'w3resource'
+Expected output: {'3': 1, 's': 1, 'r': 2, 'u': 1, 'w': 1, 'c': 1, 'e': 2, 'o': 1}
+
